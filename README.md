@@ -1,4 +1,4 @@
-# PERSONAL_DAILY_JOURNAL_APP_PROJECT
+# PERSONAL DAILY JOURNAL APP PROJECT
 A console-based Journal Management System built in Python that allows users to write, store, manage, and track daily journal entries. The application saves data in a text file and provides full CRUD functionality (Create, Read, Update, Delete) for journal entries.
 
 Features
